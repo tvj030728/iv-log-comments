@@ -1,2 +1,2 @@
 # iv-log-comments
-Comments for iv-log
+iv-Log 용 댓글 깃 입니다.
